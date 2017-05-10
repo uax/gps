@@ -16,7 +16,7 @@ Convert.gcj_decrypt();
 ```
 **GCJ-02 to WGS-84 精确(二分极限法):**
 ``` php
-GSP.gcj_decrypt_exact();
+Convert.gcj_decrypt_exact();
 ```
 **GCJ-02 to BD-09:**
 ``` php
