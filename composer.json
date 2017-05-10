@@ -1,0 +1,19 @@
+{
+    "name": "uax/gps",
+    "description": "GPS Convert",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noah",
+            "email": "noah@zixi.net"
+        }
+    ],
+	"require": {
+		"php": ">=5.3"
+	},
+    "autoload": {
+        "psr-4": {
+            "GPS\\": "src/"
+        }
+    }
+}
